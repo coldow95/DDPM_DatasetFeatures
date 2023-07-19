@@ -8,6 +8,13 @@ To start, clone the repository and download the remaining data (datasets and mod
 
 Unzip the data into the working directory, and install the requirements based on the requirements.txt file.
 
+To apply the dataset assessment framework on unseen data, put your datasets into the "test_data" folder. It is important to keep following folder structure: ./test_data/img/
+Obama and LSUNBed are already placed in the test folder as examples.
+
+```python
+  !python Main.py --apply_framework True
+```
+
 
 
 
@@ -26,7 +33,7 @@ Elucidating the Design Space of Diffusion-Based Generative Models (EDM)
 - Karras, T., Miika Aittala, Timo Aila, & Laine, S. (2022). Elucidating the Design Space of Diffusion-Based Generative Models. Advances in Neural Information Processing Systems 35 (NeurIPS 2022) . https://doi.org/10.48550/arxiv.2206.00364 <br /> <br /> 
 
 Base implementation of DDPM  <br />
-- https://github.com/lucidrains/denoising-diffusion-pytorch  <br />
+- https://github.com/lucidrains/denoising-diffusion-pytorch  <br /> <br />
 
 Denoising Diffusion Implicit Models
 - https://github.com/ermongroup/ddim <br />

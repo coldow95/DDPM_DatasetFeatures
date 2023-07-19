@@ -1,0 +1,17 @@
+,Avg_MultiscaleEntropy,Std_MultiscaleEntropy,Dataset
+Anime,6.47,0.36,Anime
+Art,6.33,0.3,Art
+Cat,6.46,0.26,Cat
+CelebA,6.45,0.3,CelebA
+Dining,6.59,0.18,Dining
+Dog,6.49,0.3,Dog
+Fauvism,6.37,0.25,Fauvism
+FFHQ,6.57,0.23,FFHQ
+Garbage,6.58,0.26,Garbage
+Grumpy,6.78,0.12,Grumpy
+Influ,6.5,0.32,Influ
+Moon,6.48,0.3,Moon
+Panda,6.77,0.12,Panda
+Poke,5.32,0.4,Poke
+Shells,5.99,0.48,Shells
+Skulls,6.41,0.32,Skulls

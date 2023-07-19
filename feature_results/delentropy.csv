@@ -1,0 +1,17 @@
+,Avg_Deltropy,Std_DelEntropy,Dataset
+Anime,4.48,0.34,Anime
+Art,5.1,0.73,Art
+Cat,4.68,0.41,Cat
+CelebA,4.45,0.38,CelebA
+Dining,4.67,0.37,Dining
+Dog,4.67,0.48,Dog
+Fauvism,5.03,0.55,Fauvism
+FFHQ,4.57,0.36,FFHQ
+Garbage,4.82,0.47,Garbage
+Grumpy,5.08,0.23,Grumpy
+Influ,4.78,0.51,Influ
+Moon,5.08,0.57,Moon
+Panda,4.62,0.24,Panda
+Poke,2.97,0.37,Poke
+Shells,3.94,0.67,Shells
+Skulls,3.86,0.83,Skulls

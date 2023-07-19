@@ -1,0 +1,17 @@
+,Avg_MeanFrequency,Std_MeanFrequency,Dataset
+Anime,0.07,0.04,Anime
+Art,0.07,0.03,Art
+Cat,0.05,0.02,Cat
+CelebA,0.05,0.02,CelebA
+Dining,0.07,0.02,Dining
+Dog,0.05,0.02,Dog
+Fauvism,0.07,0.02,Fauvism
+FFHQ,0.05,0.02,FFHQ
+Garbage,0.07,0.02,Garbage
+Grumpy,0.05,0.01,Grumpy
+Influ,0.06,0.02,Influ
+Moon,0.07,0.03,Moon
+Panda,0.05,0.01,Panda
+Poke,0.06,0.02,Poke
+Shells,0.05,0.02,Shells
+Skulls,0.05,0.04,Skulls

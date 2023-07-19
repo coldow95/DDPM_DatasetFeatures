@@ -1,0 +1,17 @@
+,Mean_edges,Std_edges,Dataset
+Anime,1835.51,330.38,Anime
+Art,1962.93,712.96,Art
+Cat,1526.81,505.14,Cat
+CelebA,1334.41,376.02,CelebA
+Dining,1731.2,400.98,Dining
+Dog,1392.23,405.56,Dog
+Fauvism,1836.38,595.51,Fauvism
+FFHQ,1482.06,343.75,FFHQ
+Garbage,1848.94,486.56,Garbage
+Grumpy,1859.86,264.28,Grumpy
+Influ,1801.09,452.81,Influ
+Moon,2188.2,612.99,Moon
+Panda,1085.1,216.69,Panda
+Poke,1115.47,242.16,Poke
+Shells,1006.19,389.55,Shells
+Skulls,987.32,419.12,Skulls

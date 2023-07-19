@@ -14,7 +14,7 @@ Unzip the data into the working directory, and install the requirements based on
 
 ## Implementation references
 
-"Towards Faster and Stabilized GAN Training for High-fidelity Few-shot Image Synthesis" (Liu et al., 2021):__
+"Towards Faster and Stabilized GAN Training for High-fidelity Few-shot Image Synthesis" (Liu et al., 2021):__  <br />
 https://github.com/odegeasslbc/FastGAN-pytorch __
 Liu, B., Zhu, Y., Song, K., & Elgammal, A. (2021). Towards Faster and Stabilized GAN Training for High-fidelity Few-shot Image Synthesis.__
 

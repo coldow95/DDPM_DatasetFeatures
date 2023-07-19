@@ -41,6 +41,10 @@ Denoising Diffusion Implicit Models
 - https://github.com/ermongroup/ddim <br />
 - Song, J., Meng, C., & Stefano Ermon. (2020). Denoising Diffusion Implicit Models. ArxiV. https://doi.org/10.48550/arxiv.2010.02502 <br /><br />
 
+Efficient Diffusion Training via Min-SNR Weighting Strategy
+- https://github.com/TiankaiHang/Min-SNR-Diffusion-Training <br />
+- Hang, T., Gu, S., Li, C., Bao, J., Chen, D., Hu, H., … Guo, B. (2023). Efficient Diffusion Training via Min-SNR Weighting Strategy. https://doi.org/10.48550/arxiv.2303.09556. ARriV.
+
 Segment Anything
 - https://github.com/facebookresearch/segment-anything     <br />
 - Kirillov, A., Mintun, E., Ravi, N., Mao, H., Rolland, C., Gustafson, L., … Girshick, R. (2023). Segment Anything. ArXiv (Cornell University). https://doi.org/10.48550/arxiv.2304.02643

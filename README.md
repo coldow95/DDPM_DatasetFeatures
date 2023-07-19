@@ -15,6 +15,8 @@ Obama and LSUNBed are already placed in the test folder as examples.
   !python Main.py --apply_framework True
 ```
 
+To train the model or evaluate across all datasets in the "model_weights" folder, please execute the corresponding jupyter notebooks (model_evaluation for testing and model_and_train_loop for training)
+
 
 
 

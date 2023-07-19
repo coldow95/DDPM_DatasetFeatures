@@ -12,13 +12,14 @@ Unzip the data into the working directory, and install the requirements based on
 
 
 
-Much credit to the following references (Citations are included in the thesis, if the code is based on a paper):
+## Implementation references
 
-"Towards Faster and Stabilized GAN Training for High-fidelity Few-shot Image Synthesis" (Liu et al., 2021):
-https://github.com/odegeasslbc/FastGAN-pytorch 
+"Towards Faster and Stabilized GAN Training for High-fidelity Few-shot Image Synthesis" (Liu et al., 2021):__
+https://github.com/odegeasslbc/FastGAN-pytorch __
+Liu, B., Zhu, Y., Song, K., & Elgammal, A. (2021). Towards Faster and Stabilized GAN Training for High-fidelity Few-shot Image Synthesis.__
 
-Efficient Attention: Attention with Linear Complexities (Shen et al., 2018) ... was not used in the final implementation.
-https://github.com/cmsflash/efficient-attention  
+Efficient Attention: Attention with Linear Complexities (Shen et al., 2018) ... was not used in the final implementation.__
+https://github.com/cmsflash/efficient-attention __
 
 Base implementation of DDPM
 https://github.com/lucidrains/denoising-diffusion-pytorch 

@@ -43,8 +43,12 @@ Denoising Diffusion Implicit Models
 
 Efficient Diffusion Training via Min-SNR Weighting Strategy
 - https://github.com/TiankaiHang/Min-SNR-Diffusion-Training <br />
-- Hang, T., Gu, S., Li, C., Bao, J., Chen, D., Hu, H., … Guo, B. (2023). Efficient Diffusion Training via Min-SNR Weighting Strategy. https://doi.org/10.48550/arxiv.2303.09556. ARriV.
+- Hang, T., Gu, S., Li, C., Bao, J., Chen, D., Hu, H., … Guo, B. (2023). Efficient Diffusion Training via Min-SNR Weighting Strategy. https://doi.org/10.48550/arxiv.2303.09556. ARriV.  <br /> <br />
 
 Segment Anything
 - https://github.com/facebookresearch/segment-anything     <br />
-- Kirillov, A., Mintun, E., Ravi, N., Mao, H., Rolland, C., Gustafson, L., … Girshick, R. (2023). Segment Anything. ArXiv (Cornell University). https://doi.org/10.48550/arxiv.2304.02643
+- Kirillov, A., Mintun, E., Ravi, N., Mao, H., Rolland, C., Gustafson, L., … Girshick, R. (2023). Segment Anything. ArXiv (Cornell University). https://doi.org/10.48550/arxiv.2304.02643 <br /> <br />
+
+Maximum Likelihood Estimation of Intrinsic Dimension
+- https://gist.github.com/mehdidc/8a0bb21a31c43b0cbbdd31d75929b5e4/  <br />
+- Levina, E., & Bickel, P. J. (2004). Maximum Likelihood Estimation of Intrinsic Dimension. Advances in Neural Information Processing Systems 17 (NIPS 2004), 17, 777–784.
